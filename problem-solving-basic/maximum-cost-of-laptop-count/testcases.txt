@@ -1,0 +1,48 @@
+TEST CASE[0]:
+1
+2
+1
+illegal
+1
+
+OUTPUT: 0
+
+TEST CASE[1]:
+5
+0
+3
+2
+3
+4
+5
+legal
+legal
+illegal
+legal
+legal
+1
+
+OUTPUT: 5
+
+TEST CASE[2]:
+8
+3
+2
+0
+2
+4
+0
+1
+4
+8
+legal
+illegal
+legal
+legal
+illegal
+legal
+legal
+legal
+4
+
+OUTPUT: 11
