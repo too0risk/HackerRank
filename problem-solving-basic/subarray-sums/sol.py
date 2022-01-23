@@ -16,7 +16,15 @@ import sys
 #  2. 2D_INTEGER_ARRAY queries
 #
 
-def solution(numbers, queries):
+def anotherSol(numbers, queries):
+    a = [0]
+    b = [0]
+    for x in numbers:
+        a.append(a[-1] + x)
+        b.append(b[-1] + (x == 0))
+    return [a[r] - a[l - 1] + x * (b[r] - b[l - 1]) for l, r, x in queries]
+
+def findSum(numbers, queries):
     if not isinstance(numbers, list) and not isinstance(queries, list):
         return
     result = []
