@@ -8,5 +8,5 @@
 2. C++ (3 stars - ON GOING)
 
 ### Certificate:
-<img src="https://github.com/wahoyuz/HackerRank/blob/main/problem-solving-basic/certificate.png" alt="wahoyuz-hr-problem-solving-basic" width="500" height="500">
-<img src="https://github.com/wahoyuz/HackerRank/blob/main/problem-solving-intermediate/certificate.png" alt="wahoyuz-hr-problem-solving-intermediate" width="500" height="500">
+<img src="https://github.com/wahoyuz/HackerRank/blob/main/problem-solving-basic/certificate.png" alt="wahoyuz-hr-problem-solving-basic" width="700" height="500">
+<img src="https://github.com/wahoyuz/HackerRank/blob/main/problem-solving-intermediate/certificate.png" alt="wahoyuz-hr-problem-solving-intermediate" width="700" height="500">
