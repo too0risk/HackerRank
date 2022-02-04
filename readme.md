@@ -5,7 +5,7 @@
 
 ### HR preparation:
 1. Java (5 stars)
-2. C++ (3 stars - ON GOING)
+2. C++ (4 stars - ON GOING TO 5)
 
 ### Certificate:
 1. **Problem Solving Basic**\
