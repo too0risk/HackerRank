@@ -3,9 +3,10 @@
 1. Problem Solving (Basic)
 2. Problem Solving (Intermediate)
 
-### HR preparation:
+### HR badge's:
 1. Java (5 stars)
-2. C++ (4 stars - ON GOING TO 5)
+2. C++ (5 stars)
+3. Python3 (5 stars)
 
 ### Certificate:
 1. **Problem Solving Basic**\
